@@ -6,18 +6,19 @@ import java.util.Scanner;
  *  TODO Follow it with additional details about its purpose, what abstraction
  *  it represents, and how to use it.
  *
- *  @author  Winston
+ *  @author  Richard Yang is amazing
  *  @version Feb 1, 2017
- *  @author  Period: TODO
+ *  @author  Period: not period
  *  @author  Assignment: Sudoku Solver
  *
- *  @author  Sources: TODO
+ *  @author  Sources: lul idk
  */
 public class Board
 {
     private Square[][] board;
 
     public static final String exampleBoard = "000260701680070090190004500820100040004602900050003028009300074040050036703018000";
+    // make this read from file please i got cancer
 
 
     public Board()
