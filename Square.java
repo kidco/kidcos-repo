@@ -4,7 +4,7 @@
  *  TODO Follow it with additional details about its purpose, what abstraction
  *  it represents, and how to use it.
  *
- *  @author  Winston
+ *  @author  Winston & Richard
  *  @version Feb 1, 2017
  *  @author  Period: TODO
  *  @author  Assignment: Sudoku Solver
