@@ -28,7 +28,6 @@ public class Possibilities
             return poss.get( 0 );
         }
         return 0;
-       
     }
 
 
