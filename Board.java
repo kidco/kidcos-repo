@@ -14,6 +14,7 @@ public class Board
     private Square[][] board;
 
     public static final String exampleBoard = "000260701680070090190004500820100040004602900050003028009300074040050036703018000";
+    // make this read from file please i got cancer
 
 
     public Board()
